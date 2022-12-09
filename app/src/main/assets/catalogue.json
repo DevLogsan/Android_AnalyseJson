@@ -1,0 +1,56 @@
+[
+      {
+        "libelle": "Access",
+        "niveau": "Initiation",
+        "type": "Bureautique",
+        "description": "Decouverte du logiciel Access",
+        "diplomante": "0",
+        "duree": "35",
+        "coutrevient": "140"
+      },
+      {
+        "libelle": "Access",
+        "niveau": "Perfectionnement",
+        "type": "Bureautique",
+        "description": "Fonctions avancees du logiciel Access",
+        "diplomante": "0",
+        "duree": "35",
+        "coutrevient": "100"
+      },
+      {
+        "libelle": "Excel",
+        "niveau": "Initiation",
+        "type": "Bureautique",
+        "description": "Decouverte du logiciel Excel",
+        "diplomante": "0",
+        "duree": "35",
+        "coutrevient": "100"
+      },
+      {
+        "libelle": "Excel",
+        "niveau": "Perfectionnement",
+        "type": "Bureautique",
+        "description": "Fonctions avancees du logiciel Excel",
+        "diplomante": "0",
+        "duree": "35",
+        "coutrevient": "110"
+      },
+      {
+        "libelle": "Word",
+        "niveau": "Initiation",
+        "type": "Bureautique",
+        "description": "Decouverte du logiciel Word",
+        "diplomante": "0",
+        "duree": "35",
+        "coutrevient": "100"
+      },
+      {
+        "libelle": "Word",
+        "niveau": "Perfectionnement",
+        "type": "Bureautique",
+        "description": "Publipostage, gestion de donnees,...",
+        "diplomante": "0",
+        "duree": "35",
+        "coutrevient": "100"
+      }
+]
