@@ -45,6 +45,15 @@
         "coutrevient": "100"
       },
       {
+        "libelle": "Test",
+        "niveau": "Test",
+        "type": "Test",
+        "description": "Test",
+        "diplomante": "0",
+        "duree": "1",
+        "coutrevient": "1"
+      },
+      {
         "libelle": "Word",
         "niveau": "Perfectionnement",
         "type": "Bureautique",
